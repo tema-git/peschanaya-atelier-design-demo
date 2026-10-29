@@ -1,0 +1,44 @@
+{
+  "company": "Ателье на 2-й Песчаной",
+  "brand": "Ателье на 2-й Песчаной",
+  "brand_descriptor": "На 2-й Песчаной",
+  "brand_expression": "ателье на 2-й Песчаной",
+  "suggested_site": "peschanaya-atelier-design-demo",
+  "category": "Ателье / ремонт одежды",
+  "city": "Москва",
+  "address": "2-я Песчаная улица, 2к2",
+  "email": "galinamrkn@yandex.ru",
+  "phone": "+79688120325",
+  "telegram": "https://t.me/atelier_mg",
+  "listing_url": "https://msk.spravka.city/company/atele-po-remontu-odezhdy-518",
+  "sources": [
+    "https://msk.spravka.city/company/atele-po-remontu-odezhdy-518",
+    "https://t.me/atelier_mg",
+    "https://t.me/s/atelier_mg"
+  ],
+  "email_evidence": "Email and full phone are currently published in the business contact section of Spravka.City. The card links the primary Telegram channel atelier_mg, whose description confirms garment repair and the exact address 2-я Песчаная 2к2.",
+  "identity_evidence": "Primary Telegram describes extending the life of customers' clothes and publishes the exact address. The business name shown there is simply «Ателье»; «Ателье на 2-й Песчаной» is a descriptive disambiguation, not an invented official brand.",
+  "no_site_evidence": "No standalone company domain is listed in the current card or primary Telegram, and focused company/address/email searches did not find one.",
+  "confidence": "Средняя: публичная деловая почта; принадлежность подтверждена карточкой и связанным первичным каналом. Доставка и ответ владельца не проверялись.",
+  "contact_status": "Новый кандидат вне исходного списка; перед черновиком проверить отсутствие исходящих писем на этот адрес.",
+  "notes": "Не путать с Maria Gotova Atelier / mg-atelier.ru: это другое ателье. Название «М Ателье» и соседний дом 2к1 встретились в стороннем агрегаторе, поэтому здесь использованы название/адрес из первичного Telegram и связанной карточки.",
+  "official_brand": "АТЕЛЬЕ",
+  "short_brand": "АТЕЛЬЕ",
+  "slug": "peschanaya-atelier-design-demo",
+  "source_urls": [
+    "https://msk.spravka.city/company/atele-po-remontu-odezhdy-518",
+    "https://t.me/atelier_mg",
+    "https://t.me/s/atelier_mg"
+  ],
+  "contacted": false,
+  "verified_on": "2026-10-30",
+  "caveats": [
+    "Не путать с Maria Gotova Atelier / mg-atelier.ru: это другое ателье. Название «М Ателье» и соседний дом 2к1 встретились в стороннем агрегаторе, поэтому здесь использованы название/адрес из первичного Telegram и связанной карточки."
+  ],
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "2617d97431b663fa417961ffd5e7881d0bee6275",
+  "prepared_on": "2026-10-30",
+  "demo_only": true,
+  "data_submission": false,
+  "repository": "peschanaya-atelier-design-demo"
+}
